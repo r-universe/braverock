@@ -1,0 +1,14 @@
+[
+  {
+    "package": "FinancialInstrument",
+    "oncran": true
+  },
+  {
+    "package": "PerformanceAnalytics",
+    "oncran": true
+  },
+  {
+    "package": "PortfolioAnalytics",
+    "oncran": true
+  }
+]
