@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "FinancialInstrument"]
-	path = FinancialInstrument
-	url = https://github.com/braverock/financialinstrument
-	shallow = true
-	registered = true
 [submodule "PerformanceAnalytics"]
 	path = PerformanceAnalytics
 	url = https://github.com/braverock/performanceanalytics
