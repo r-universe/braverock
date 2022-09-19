@@ -1,5 +1,9 @@
 [
   {
+    "package": "FinancialInstrument",
+    "oncran": true
+  },
+  {
     "package": "PerformanceAnalytics",
     "oncran": true
   },
