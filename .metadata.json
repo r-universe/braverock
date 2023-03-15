@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "PerformanceAnalytics",
+    "package": "PortfolioAnalytics",
     "oncran": true
   },
   {
-    "package": "PortfolioAnalytics",
+    "package": "PerformanceAnalytics",
     "oncran": true
   }
 ]
