@@ -8,13 +8,13 @@
 	url = https://github.com/braverock/financialinstrument
 	shallow = true
 	registered = true
-[submodule "PortfolioAnalytics"]
-	path = PortfolioAnalytics
-	url = https://github.com/braverock/portfolioanalytics
-	shallow = true
-	registered = true
 [submodule "PerformanceAnalytics"]
 	path = PerformanceAnalytics
 	url = https://github.com/braverock/performanceanalytics
+	shallow = true
+	registered = true
+[submodule "PortfolioAnalytics"]
+	path = PortfolioAnalytics
+	url = https://github.com/braverock/portfolioanalytics
 	shallow = true
 	registered = true
